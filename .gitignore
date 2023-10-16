@@ -1,2 +1,4 @@
 
 .DS_Store
+amphibio.db-shm
+amphibio.db-wal
